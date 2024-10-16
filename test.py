@@ -1,0 +1,7 @@
+print ("hello python")
+print("name Adithep chonlasit")
+print("nickname Golf")
+print("age 18")
+print("number 21")
+print("Student ID 67319010021")
+print("hobby sing a sog")
